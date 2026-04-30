@@ -363,7 +363,7 @@ function Stories() {
 function Quotes() {
   const quotes = [
     {
-      body: "We were tracking 4,200 part numbers in a Google Sheet. Tier Zero replaced the sheet, the calls, and the firefighting. Margin held through three Q3 disruptions we never even saw.",
+      body: "We were tracking 4,200 part numbers in a Google Sheet. Subtier replaced the sheet, the calls, and the firefighting. Margin held through three Q3 disruptions we never even saw.",
       who: "VP, Procurement",
       org: "Series-C semiconductor startup · NYC",
       stat: "$184M",
@@ -394,7 +394,7 @@ function Quotes() {
     <section className="section quotes" id="quotes">
       <div className="section-head">
         <span className="kicker">In their own words</span>
-        <h2 className="h2">How operators are running supply with Tier Zero.</h2>
+        <h2 className="h2">How operators are running supply with Subtier.</h2>
       </div>
       <article className="quote-card">
         <div className="quote-stat">

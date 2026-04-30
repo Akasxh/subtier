@@ -1,6 +1,6 @@
-# Tier Zero
+# Subtier
 
-YC-pitch landing page for a multi-agent procurement platform for deep tech (semiconductors, aerospace, energy, robotics, biotech hardware, defense).
+YC-pitch landing page for **Subtier** — a multi-agent procurement platform for deep tech (semiconductors, aerospace, energy, robotics, biotech hardware, defense).
 
 Static site — React 18 via UMD CDN + Babel-standalone in the browser. No build step.
 
@@ -21,7 +21,7 @@ The two knobs sit in `app.jsx`:
 const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
   "palette": "steel",       // steel | ember | forest | iris | paper | fog | sage | midnight
   "scenario": "space",      // semiconductor | space | battery
-  "companyName": "Tier Zero"
+  "companyName": "Subtier"
 }/*EDITMODE-END*/;
 ```
 

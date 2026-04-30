@@ -4,7 +4,7 @@ const { useState, useEffect, useRef, useMemo } = React;
 const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
   "palette": "steel",
   "scenario": "space",
-  "companyName": "Tier Zero"
+  "companyName": "Subtier"
 }/*EDITMODE-END*/;
 
 const PALETTES = {
